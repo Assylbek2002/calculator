@@ -1,2 +1,2 @@
 # calculator
-Калькулятор денег и калорий
+Money and Calory calculator
